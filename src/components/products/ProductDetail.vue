@@ -8,15 +8,15 @@
 	</span>
             </p>
             <dl class="item-property">
-                <dt>Description</dt>
+                <dt>Descrição</dt>
                 <dd><p class="text-capitalize">{{product.description}}</p></dd>
             </dl>
             <dl class="param param-feature">
-                <dt>Brand</dt>
+                <dt>Marca</dt>
                 <dd class="text-capitalize">{{product.brand}}</dd>
             </dl>
             <dl class="param param-feature">
-                <dt>Size</dt>
+                <dt>Tamanho</dt>
                 <dd>{{product.size}}</dd>
             </dl>
             <dl class="param param-feature">
@@ -28,7 +28,7 @@
                 <dd>{{product.cpu}}</dd>
             </dl>
             <dl class="param param-feature">
-                <dt>Memory</dt>
+                <dt>Memoria</dt>
                 <dd>{{product.memory}}</dd>
             </dl>
             <dl class="param param-feature">
@@ -43,7 +43,7 @@
             <button
                     @click="onAddProductToCart()"
                     class="btn btn-lg btn-outline-primary text-uppercase"><i
-                    class="fa fa-shopping-cart"></i> Add to cart
+                    class="fa fa-shopping-cart"></i> Adicionar ao Carrinho
             </button>
         </article>
     </aside>

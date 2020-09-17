@@ -23,7 +23,7 @@
       </h4>
       <h5 class="product__price">{{product.price | priceFormatter}}</h5>
       <p class="card-text product__description">{{product.description}}</p>
-      <button @click="onAddProductToCart()" class="btn btn-info product__add-to-cart">Add to cart</button>
+      <button @click="onAddProductToCart()" class="btn btn-info product__add-to-cart">Adicionar ao Carrinho</button>
     </div>
   </div>
 </template>
@@ -81,9 +81,9 @@ export default {
     },
     onAddProductToCart() {
       this.$swal({
-        title: "Added to cart!",
+        title: "Adicionado ao Carrinho!",
         icon: "success",
-        button: "Done!"
+        button: "Concluir!"
       });
       this.$store.commit(Types.ADD_PRODUCT_TO_CART, this.product);
     },
