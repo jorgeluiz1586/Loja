@@ -1,7 +1,7 @@
-![alt-text](https://github.com/jorgeluiz1586/Loja/blob/master/img01.png)
-![alt-text](https://github.com/jorgeluiz1586/Loja/blob/master/img02.png)
-![alt-text](https://github.com/jorgeluiz1586/Loja/blob/master/img03.png)
-![alt-text](https://github.com/jorgeluiz1586/Loja/blob/master/img04.png)
+![alt-text](https://github.com/jorgeluiz1586/Loja/blob/master/photos/img01.png)
+![alt-text](https://github.com/jorgeluiz1586/Loja/blob/master/photos/img02.png)
+![alt-text](https://github.com/jorgeluiz1586/Loja/blob/master/photos/img03.png)
+![alt-text](https://github.com/jorgeluiz1586/Loja/blob/master/photos/img04.png)
 
 
 # Loja
